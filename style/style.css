@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.result{
+    display: flex;
+}
+
+.item{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.item p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item button{
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+
+}
+.url-container{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.p{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.input-control{
+    border: 3px solid lightgreen;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+
+
+.url-btn{
+    font-size: 20px;
+    border: none;
+    background-color: lightgreen;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 3px solid lightgreen;
+}
+
